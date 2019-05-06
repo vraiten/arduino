@@ -1,4 +1,4 @@
-#define ECHO 9 
+#define ECHO 11 
 #define TRIG 10 
 
 #define PIEZO 8

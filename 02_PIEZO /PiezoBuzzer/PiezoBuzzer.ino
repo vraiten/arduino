@@ -2,6 +2,7 @@
 
 void setup() {
 
+  pinMode(PIEZO,OUTPUT); 
  
 }
 

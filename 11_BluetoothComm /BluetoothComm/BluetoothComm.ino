@@ -2,8 +2,8 @@
 
 #define LED 13
 
-#define TX 12
-#define RX 11
+#define TX 3
+#define RX 2
 
 SoftwareSerial BTSerial(TX,RX);
 

@@ -27,6 +27,6 @@ void loop() {
       tone(PIEZO,1000,100);
    }
 
-   delay(1000);
+   delay(50);
 
 }
